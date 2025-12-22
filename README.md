@@ -1,8 +1,7 @@
 # treetagstudy
 retention rate analysis for tree tags inside of anki. calculates true retention based on selected tag category instead of anki deck default. 
 
-Standard Anki statistics focus on Decks. This add-on focuses on Tags, allowing you to drill down into your retention rates with granular, hierarchical precision. It identifies not just what you are failing, but why—analyzing retention, answer speed, and time-of-day performance.
-
+Standard Anki statistics focus on Decks. This add-on focuses on Tags, allowing you to drill down into your retention rates based on tag hierarchy.
 
 Manual Installation (Development Mode)
 1. Open Anki and navigate to Tools -> Add-ons -> View Files.
